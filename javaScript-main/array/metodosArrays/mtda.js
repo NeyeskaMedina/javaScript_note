@@ -154,6 +154,26 @@ let numeros = [1,5,13,23,11,7,20]
 
 // // METODOS DE REPETICIÓN
 
+// // map ()
+// El map devuelve un nuevo array del array original
+
+// // reduce()
+
+// // indexOf 
+
+// // includes()
+// // se usa para consultar si un elemento se encuentra dentro del array devuelve un booleano
+const array = [{id: 1}, {id:2}];
+
+let existe = array.includes(array[id] === 1)
+
+console.log(existe);
+// // find 
+// sirve para buscar elementos dentro de un array de objetos y devuelve un elemento encontrado de acuerdo a la condicion
+
+
+// // some
+
 // // //filter
 // document.write(`Arrays Original: <b>${nombres}</b><br>`)
 // nombres.filter(nombres => document.write(nombres + "<br>"));
