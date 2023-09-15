@@ -1,0 +1,13 @@
+input{
+    margin-top: 5vh;
+    margin-left: 10vw;
+    border-radius: 40%;
+    border: 0;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: red;
+}
+input:hover{
+    background-color: rgba(172, 170, 170, 0.753);
+    font-size: 1em;
+}
